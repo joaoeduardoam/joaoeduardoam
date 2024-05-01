@@ -30,7 +30,8 @@ public class Programmer {
         <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
         <a href="https://stackshare.io/php" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a> -->
         <a href="https://stackshare.io/java" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-        <!-- <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a> -->
+        <a href="https://stackshare.io/kubernetes" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40" /></a>
+	<a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
         <!-- <h4 align="left">Medium Skill:</h4>
         <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a>
         <a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
